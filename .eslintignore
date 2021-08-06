@@ -1,0 +1,6 @@
+.husky
+node_modules
+android
+ios
+babel.config.js
+__tests__
